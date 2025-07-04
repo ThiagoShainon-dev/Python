@@ -1,0 +1,25 @@
+#n = float(input('digite um valor:'))
+#print(n)
+
+#n = input('digite algo:')
+#print(n.isalnum())
+
+#n1 = int(input('Digite um valor:'))
+#n2 = int(input('Digite outro valor:'))
+#n3 = int(input('Digite mais um valor:'))
+#n4 = int(input('Continue digitando um valor:'))
+#s =  n1 + n2
+#r = n3 + n4
+#t = s + r
+#print('A soma entre {} e {} é igual a {}'.format(n1, n2, s))
+#print('A soma entre {} e {} é igual a {}'.format(n3, n4, r))
+#print('A soma entre {} e {} é igual a {}'.format(s, r, t))
+
+
+#a = input('digite algo:')
+#print('O tipo primitivo desse valor é', type(a))
+#print('Só tem espaços?', a.isspace())
+#print('É um número?', a.isnumeric())
+#print('É alfabetico?', a.isalpha())
+#print('É alfanumerico?', a.isalnum())
+#print('Está em maiúsculas?', a.isupper())
